@@ -76,8 +76,8 @@ align-items: center;
     display: flex;
     background: #abaaaa;
     padding: 10px;
-    position: absolute;
-    width: 81%;
+    /* position: absolute; */
+    /* width: 81%; */
     margin: 5px;
     border-radius: 10px;
   }
@@ -87,10 +87,10 @@ align-items: center;
     align-items: center;
   }
   .buds{
-    padding: 10PX;
+    padding: 10px;
     margin-left: 80%;
     border: 2px;
-
+    
   }
   .Active{
     padding: 10px;
